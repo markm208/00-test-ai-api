@@ -7,5 +7,21 @@
     }
   ],
   "aiApiUrl": "https://storyteller-ai-proxy.markm208.workers.dev",
-  "chapters": []
+  "chapters": [
+    {
+      "title": "Ch1",
+      "playbacks": [
+        {
+          "title": "Playback",
+          "slug": "playback",
+          "authors": [
+            {
+              "name": "Mark M",
+              "url": "https://github.com/markm208"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
