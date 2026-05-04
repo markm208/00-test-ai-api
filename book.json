@@ -1,0 +1,11 @@
+{
+  "title": "00 Test AI API",
+  "authors": [
+    {
+      "name": "Mark M",
+      "url": "https://github.com/markm208"
+    }
+  ],
+  "aiApiUrl": "https://storyteller-ai-proxy.markm208.workers.dev",
+  "chapters": []
+}
